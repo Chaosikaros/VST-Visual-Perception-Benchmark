@@ -211,6 +211,10 @@ All test results are saved as CSV files in the following locations:
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the benchmark.
 
+## Acknowledgments
+
+- **[Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)**: Special thanks to Denis Pelli for providing the Sloan and Pelli fonts used in this project. Note that these fonts are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Contact
 
 For questions or support, please open an issue on this repository.
