@@ -1,5 +1,7 @@
 # VST Visual Perception Benchmark
 
+[![arXiv](https://img.shields.io/badge/arXiv-2601.02805-b31b1b.svg)](https://arxiv.org/abs/2601.02805) [Jump to Citation](#citation)
+
 A low-cost, accessible framework for measuring and comparing the visual perception performance of Video See-Through (VST) head-mounted displays (HMDs) against natural human vision.
 
 ## Overview
