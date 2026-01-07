@@ -215,6 +215,27 @@ Contributions are welcome! Please feel free to submit issues or pull requests to
 
 - **[Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)**: Special thanks to Denis Pelli for providing the Sloan and Pelli fonts used in this project. Note that these fonts are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+
+## Citation
+
+If you find this benchmark useful for your research, please cite our paper:
+
+```bibtex
+@misc{wang2026perceptual,
+      title={The perceptual gap between video see-through displays and natural human vision}, 
+      author={Jialin Wang and Songming Ping and Kemu Xu and Yue Li and Hai-Ning Liang},
+      year={2026},
+      eprint={2601.02805},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2601.02805}, 
+}
+```
+
+## Dataset
+
+The data used for the paper can be found in the [Dataset](Dataset/) folder.
+
 ## Contact
 
 For questions or support, please open an issue on this repository.
