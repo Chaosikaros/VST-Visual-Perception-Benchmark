@@ -223,8 +223,8 @@ Contributions are welcome! Please feel free to submit issues or pull requests to
 If you find this benchmark useful for your research, please cite our paper:
 
 ```bibtex
-@misc{wang2026perceptual,
-      title={The perceptual gap between video see-through displays and natural human vision}, 
+@misc{wang2026perceptualcostpassthroughvideo,
+      title={The Perceptual Cost of Passthrough: How Video See-Through HMDs Degrade Human Visual Perception of Acuity, Contrast, and Color}, 
       author={Jialin Wang and Songming Ping and Kemu Xu and Yue Li and Hai-Ning Liang},
       year={2026},
       eprint={2601.02805},
